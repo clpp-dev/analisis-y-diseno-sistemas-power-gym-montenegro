@@ -1,1 +1,1 @@
-# analisis-y-dise-o-sistemas-power-gym-montenegro
+# analisis-y-diseño-sistemas-power-gym-montenegro
