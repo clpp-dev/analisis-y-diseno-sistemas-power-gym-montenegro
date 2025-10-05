@@ -137,6 +137,3 @@ El proyecto cuenta con **10 historias de usuario** que definen las interacciones
 - **Encuesta de levantamiento de información:**  
   [Ver en OneDrive](https://laiberocol-my.sharepoint.com/:b:/g/personal/cperezp1_estudiante_ibero_edu_co/EQsEZ7Rea4dGsxoFrNLo4-UBbVT_arjtd-UwnQI2xKfPxw?e=3d34MC)
 
----
-
-## 📁 Estructura sugerida del repositorio
